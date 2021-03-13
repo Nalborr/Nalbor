@@ -31,6 +31,6 @@ CatServer на версии 1.12.2 | Forge+Bukkit+Spigot сервер<br>
 - 2.Сгенерировать патч: gradlew genPatches<br>
 - 3.Сбилдить: gradlew build<br>
 
-### Chat
+### Чаты
 Telegram: [@CatServer](https://t.me/CatServer)<br>
 Discord: [Click to join](https://discord.gg/wvBJN4d)<br>
