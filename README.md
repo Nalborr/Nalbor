@@ -26,10 +26,10 @@ CatServer на версии 1.12.2 | Forge+Bukkit+Spigot сервер<br>
 3. Дождитесь завершения загрузки файла библиотеки при первом запуске<br>
 
 ### Билд
-- 1. Установить проект: gradlew setup<br>
+- 1.Установить проект: gradlew setup<br>
   Чтобы импортировать IDEA или Eclipse, откройте: projects/Catserver/.project
-- 2. Сгенерировать патч: gradlew genPatches<br>
-- 3. Сбилдить: gradlew build<br>
+- 2.Сгенерировать патч: gradlew genPatches<br>
+- 3.Сбилдить: gradlew build<br>
 
 ### Chat
 Telegram: [@CatServer](https://t.me/CatServer)<br>
