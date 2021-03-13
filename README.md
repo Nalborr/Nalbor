@@ -3,14 +3,14 @@
 ![](https://img.shields.io/badge/Forge-14.23.5.2855-brightgreen.svg?colorB=469C00)
 ![](https://img.shields.io/badge/Spigot-1.12.2%20latest-brightgreen.svg?colorB=469C00)
 
-[Website](https://catserver.moe/)
-[Sponsor](https://paypal.me/LHYCAT)
+[Сайт](https://catserver.moe/)
+[Спонсор](https://paypal.me/LHYCAT)
 
 CatServer на версии 1.12.2 | Forge+Bukkit+Spigot сервер<br>
 Самое долгое время непрерывной работы, поддержка большинства модов и плагинов для стабильной работы<br>
 
-[Download (Github)](https://github.com/Luohuayu/CatServer/releases)
-[Download (Mirror)](https://catserver.moe/download/universal)
+[Скачать с (Github)](https://github.com/Luohuayu/CatServer/releases)
+[Скачать с (Mirror)](https://catserver.moe/download/universal)
 
 ### Особенности
 Используйте самописную оптимизацию и оптимизацию Paper, чтобы повысить производительность<br>
@@ -32,5 +32,5 @@ CatServer на версии 1.12.2 | Forge+Bukkit+Spigot сервер<br>
 - 3.Сбилдить: gradlew build<br>
 
 ### Чаты
-Telegram: [@CatServer](https://t.me/CatServer)<br>
-Discord: [Click to join](https://discord.gg/wvBJN4d)<br>
+Телеграм: [@CatServer](https://t.me/CatServer)<br>
+Дискорд: [Нажмите чтобы войти](https://discord.gg/wvBJN4d)<br>
