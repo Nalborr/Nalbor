@@ -7,7 +7,7 @@
 [Спонсор](https://paypal.me/LHYCAT)
 
 CatServer на версии 1.12.2 | Forge+Bukkit+Spigot сервер<br>
-Самое долгое время непрерывной работы, поддержка большинства модов и плагинов для стабильной работы<br>
+Самое долгое время непрерывной работы, поддержка большинства модов и плагинов для стабильной работы сервера!<br>
 
 [Скачать с (Github)](https://github.com/Luohuayu/CatServer/releases)
 [Скачать с (Зеркала)](https://catserver.moe/download/universal)
